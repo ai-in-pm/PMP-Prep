@@ -245,19 +245,19 @@ const StudyPlansData = [
 
 const OrganizationData = [
   {
-    name: 'Max von Laue',
+    name: 'Francis Crick',
   },
 
   {
-    name: 'George Gaylord Simpson',
+    name: 'Christiaan Huygens',
   },
 
   {
-    name: 'Albrecht von Haller',
+    name: 'Marie Curie',
   },
 
   {
-    name: 'Theodosius Dobzhansky',
+    name: 'Lynn Margulis',
   },
 ];
 
