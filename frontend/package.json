@@ -18,7 +18,7 @@
     "@tinymce/tinymce-react": "^4.3.2",
     "apexcharts": "^3.45.2",
     "react-big-calendar": "^1.10.3",
-    "axios": "^1.6.7",
+    "axios": "^1.8.2",
     "chart.js": "^4.4.1",
     "chroma-js": "^2.4.2",
     "dayjs": "^1.11.10",
